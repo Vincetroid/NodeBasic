@@ -4,6 +4,7 @@
   "description": "nodejsbasicapp1",
   "main": "app.js",
   "scripts": {
+    "start": "node server.js",
     "test": "dontknow"
   },
   "repository": {
