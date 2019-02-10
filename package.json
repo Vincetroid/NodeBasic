@@ -1,0 +1,22 @@
+{
+  "name": "nodejsbasicapp1",
+  "version": "1.0.0",
+  "description": "nodejsbasicapp1",
+  "main": "app.js",
+  "scripts": {
+    "test": "dontknow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vincetroid/NodeBasic.git"
+  },
+  "keywords": [
+    "testapp"
+  ],
+  "author": "vincetroid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vincetroid/NodeBasic/issues"
+  },
+  "homepage": "https://github.com/Vincetroid/NodeBasic#readme"
+}
